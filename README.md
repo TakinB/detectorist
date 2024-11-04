@@ -1,9 +1,17 @@
-# React + Vite
+# Treasure Hunt
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Something is hidden behind the screen!
+Move your cursor to find it.
 
-Currently, two official plugins are available:
+Give it a try [here](https://takinb.github.io/detectorist/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# detectorist
+## Developer Guide:
+
+This is created using React (Vite)
+
+To run please run the following from the root directory of this project
+
+`npm install`
+
+`npm run dev`
+
